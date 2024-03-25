@@ -6,7 +6,7 @@ const Offline = () => {
         <div className="offline-wrapper">
             <h1>YOU ARE OFFLINE</h1>
             <h4>Please check your internet connection</h4>
-            <a href="https://full-stack-biriyani.netlify.app/" className="button">RETRY</a>
+            <a href="https://find-your-meal-2024.netlify.app/" className="button">RETRY</a>
         </div>
         </div>
     );
